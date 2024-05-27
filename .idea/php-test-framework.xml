@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpTestFrameworkVersionCache">
+    <tools_cache>
+      <tool tool_name="PHPUnit">
+        <cache>
+          <versions>
+            <info id="Local\\wsl$\Ubuntu-22.04\home\kolaj\code\4.3_API\vendor\autoload.php" version="9.6.19" />
+            <info id="interpreter-cf136f2d-2efd-4f7f-9d53-364c9ecdf482" version="9.6.19" />
+          </versions>
+        </cache>
+      </tool>
+    </tools_cache>
+  </component>
+</project>

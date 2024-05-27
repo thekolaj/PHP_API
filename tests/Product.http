@@ -1,0 +1,27 @@
+GET {{ product_host }}
+Accept: application/json
+
+###
+GET {{ product_host }}1
+Accept: application/json
+
+###
+POST {{ product_host }}
+Content-Type: application/json
+
+{
+  "name": "Some Product",
+  "price": 3.333
+}
+
+###
+PUT {{ product_host }}1
+Content-Type: application/json
+
+{
+  "name": "First Product",
+  "price": 1
+}
+
+###
+DELETE {{ product_host }}3
